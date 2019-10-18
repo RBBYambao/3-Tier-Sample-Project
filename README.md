@@ -76,6 +76,7 @@ Dowload the zip file from the github and and clone and type the following comman
 > python SampleSignIn.py
 
 The sample sign in window will pop up,
+
 ![GetImage](https://user-images.githubusercontent.com/52278031/67071785-0a42c280-f1b6-11e9-98ad-840b468d3d35.png)
 
 Enter valid username and valid password that is already registered in the database:
